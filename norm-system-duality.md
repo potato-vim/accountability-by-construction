@@ -1,8 +1,6 @@
-# accountability-by-construction
+# Norm ⇒ System Duality: A Formal Report
 
-## Norm ⇒ System Duality: A Formal Report
-
-> Political position statement through formal structure
+> Political position statement through formal structure  
 > This document intentionally avoids ideology, analogy, and metaphor,
 > and instead presents a minimal mathematical structure for public systems.
 
@@ -71,15 +69,15 @@ Executable operations.
 
 Let:
 
-- **P** be a partially ordered set of disclosure policies
+- **P** be a partially ordered set of disclosure policies  
 - **A** be a partially ordered set of observational capabilities
 
 with order representing *strength*.
 
 Define monotone maps:
 
-- F : P → A
-- G : A → P
+- F : P → A  
+- G : A → P  
 
 such that:
 
@@ -153,11 +151,6 @@ This framework does not advocate transparency or secrecy.
 
 It asserts:
 
-> Trust is not a moral property.
+> Trust is not a moral property.  
 > Trust is a structural consequence.
 
----
-
-## Other Documents
-
-- [Norm ⇒ System の圏と双対接続に基づく η 設計](statement.md)
